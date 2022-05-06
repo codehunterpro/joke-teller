@@ -37,10 +37,6 @@ button {
 }
 
 @media screen and (max-width: 900px) {
-  .container {
-    align-items: flex-end;
-  }
-
   body {
     background-size: cover;
     background-position: center center;
